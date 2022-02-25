@@ -1,0 +1,6 @@
+{
+  "yaml.schemas": {
+    "https://schema.rawkode.dev/person": "/people/*",
+    "https://schema.rawkode.dev/technology": "/technologies/*"
+  }
+}
